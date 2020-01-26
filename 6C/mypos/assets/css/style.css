@@ -1,0 +1,21 @@
+.navbar-brand {
+	margin-left: 20px;
+}
+
+.table {
+	margin-top: 60px;
+	width: 90%;
+	margin-left: 5%;
+}
+
+.thead {
+	background-color: #F4A460;
+}
+
+.btn-warning {
+	background: #F4A460;
+	width: 90px;
+	margin-left: 100px;
+	margin-right: 20px;
+
+}
